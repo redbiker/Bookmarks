@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Bookmarks
 
-You can use the [editor on GitHub](https://github.com/redbiker/Bookmarks/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Tech
+[GitHub](http://github.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[GitLab](http://gitlab.com)
 
-### Markdown
+[Automate the Boring Stuff](http://automatetheboringstuff.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Linux Commands](https://pimylifeup.com/linux-commands-cheat-sheet/)
 
-```markdown
-Syntax highlighted code block
+## School
 
-# Header 1
-## Header 2
-### Header 3
+[Calculus Homework](http://mvhs-fuhsd.org/jon_stark/calculus/calculus_assigns.html)
 
-- Bulleted
-- List
+[Physics Textbook](https://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a:2/Introduction-to-Science-and-th)
 
-1. Numbered
-2. List
+[Khan Academy - Physics](https://www.khanacademy.org/science/physics/ap-physics-1)
 
-**Bold** and _Italic_ and `Code` text
+[Khan Academy - Calculus](https://www.khanacademy.org/math/calculus-home/ap-calculus-bc)
+	
+## Life
 
-[Link](url) and ![Image](src)
-```
+[Reddit](https://www.reddit.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Amazon](https://www.amazon.com/)
 
-### Jekyll Themes
+[Take a Five](http://www.takeafive.com/)
+	
+## Entertainment
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/redbiker/Bookmarks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Movies](https://www.reddit.com/domain/openload.co/)
 
-### Support or Contact
+[iWatchOnline](https://www.iwatchonline.cr/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[YouTube](https://www.youtube.com/)
+
+[Twitch](https://www.twitch.tv/)
